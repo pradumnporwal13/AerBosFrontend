@@ -47,10 +47,10 @@ const Features = () => {
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-12">
         <div className="text-center mb-12 md:mb-16">
-          <h2 className="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white animate-fade-in-up">
+          <h2 className="text-xl md:text-3xl font-semibold text-gray-900 dark:text-white animate-fade-in-up">
             Advanced Features of Our Product
           </h2>
-          <p className="mt-4 text-sm md:text-base text-gray-600 dark:text-gray-300 max-w-2xl mx-auto animate-fade-in-up delay-100">
+          <p className="mt-4 text-justify  md:text-center text-sm md:text-base text-gray-600 dark:text-gray-300 w-full mx-auto animate-fade-in-up delay-100">
             Our integrated solution combines cutting-edge technology to provide comprehensive
             environmental monitoring and protection.
           </p>

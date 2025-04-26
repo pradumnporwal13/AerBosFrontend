@@ -19,7 +19,7 @@ function AboutUs() {
         </p>
       </div>
       
-      <div className='py-4 bg-white dark:bg-gray-900 text-black dark:text-white flex flex-col text-wrap px-8'>
+      <div className='py-4 bg-white dark:bg-gray-900 text-black dark:text-white flex flex-col text-wrap px-6'>
         {/* <h1 className="font-semibold my-2 max-w-2xl mx-auto text-lg md:text-xl">Meet Our Team</h1> */}
         <Team/>
       </div>

@@ -67,7 +67,7 @@ const Team = () => {
                   rel="noopener noreferrer"
                   className="text-gray-600 dark:text-gray-400 hover:text-pink-600"
                 >
-                  <Instagram size={24} />
+                  {/* <Instagram size={24} /> */}
                 </a>
               </div>
             </div>
